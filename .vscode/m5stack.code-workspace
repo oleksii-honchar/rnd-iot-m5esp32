@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "M5Stack Basic Core",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"typescript.surveys.enabled": false,
+		"typescript.tsdk": "node_modules/typescript/lib"
+	}
+}
